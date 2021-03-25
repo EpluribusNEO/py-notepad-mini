@@ -2,9 +2,9 @@
 
 
 ENG
-    simple text editor (.txt)
-    requires "tkinter" to work
-    Use "UTF-8" encoding!
+    simple text editor (.txt).
+    requires "tkinter" to work.
+    Use "UTF-8" encoding!.
     Problems may arise when using other encodings...
 
 RUS
